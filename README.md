@@ -5,7 +5,7 @@
 File [plan.scad](plan.scad) contains the code which can be reused to draw similar 3U panels or any other sizes. Can be opened with [OpenSCAD](https://openscad.org).     
 
 Implemented useful eurorack related functions:
-```
+```scad
 module M3() { circle(d = m3); }
 module MiniJack() { circle(d = 6.0 + tolerance); }
 module Toggle() { circle(d = 6.35 + tolerance); }
