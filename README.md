@@ -45,3 +45,7 @@ module XLR() {
 	translate([hd / 2, -d / 2]) M3();
 }
 ```
+### Finished product:
+![IMG_3933](https://user-images.githubusercontent.com/5844101/160396220-39db8f63-2078-4899-8819-81e31552df25.jpeg)
+![IMG_3975](https://user-images.githubusercontent.com/5844101/160396232-a6f94244-8720-4611-8e99-33b73f6c6591.jpeg)
+![IMG_3894](https://user-images.githubusercontent.com/5844101/160396242-92da0239-8585-43b7-b85d-4f64a51e9207.jpeg)
